@@ -7,8 +7,8 @@
 
 ## Objetivo
 
-Resolver numéricamente las **ecuaciones primitivas de la dinámica atmosférica** sobre la
-Península Ibérica usando datos reales de Open-Meteo (modelo GFS) como condiciones
+Resolver numéricamente las **ecuaciones primitivas de la dinámica atmosférica**  sobre la
+Península Ibérica, para entenderlas mejor y practicar, usando datos reales de Open-Meteo (modelo GFS) como condiciones
 iniciales y de contorno.
 
 ---
